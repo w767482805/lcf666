@@ -27,6 +27,7 @@ public class BrandController {
             //根据ID修改品牌信息
             int mcount = brandService.modify(brand);
             if (mcount > 0) {
+
                 return new Result(true, "品牌修改成功");
             }
         } catch (Exception e) {
