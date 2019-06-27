@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lcf-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lcf-manager-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lcf-mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lcf-model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lcf-sellergoods-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lcf-sellergoods-service" charset="UTF-8" />
+  </component>
+</project>
