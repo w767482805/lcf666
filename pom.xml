@@ -64,7 +64,7 @@
         <joda-time.version>2.10</joda-time.version>
         <wxpay.version>0.0.3</wxpay.version>
         <httpclient.version>4.5.3</httpclient.version>
-        <log4j.version>2.5</log4j.version>
+        <log4j.version>2.13.3</log4j.version>
     </properties>
 
     <dependencyManagement>
