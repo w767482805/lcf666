@@ -55,7 +55,7 @@
         <aliyun-java.sdk.core.version>3.3.1-SNAPSHOT</aliyun-java.sdk.core.version>
         <cas.client.core.version>3.3.3</cas.client.core.version>
         <servlet.api.version>2.5</servlet.api.version>
-        <fastjson.version>1.2.51</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <zookeeper.version>3.4.8</zookeeper.version>
         <zkclient.version>0.10</zkclient.version>
         <curator-framework.version>2.12.0</curator-framework.version>
